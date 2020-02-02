@@ -1,7 +1,7 @@
 demo2
 ==============================
 
-jsut demo
+For applied data science project
 
 Project Organization
 ------------
